@@ -1,0 +1,6 @@
+## Interface: 100206
+## Title: |cFF00FF00<Epic WA Announcements>|r |cFF00FFFFby BattleBrisket|r
+## Dependencies: SharedMedia 
+
+sounds.lua
+
