@@ -1,6 +1,25 @@
 ## Interface: 100206
-## Title: |cFF00FF00<Epic WA Announcements>|r |cFF00FFFFby BattleBrisket|r
-## Dependencies: SharedMedia 
+## Interface-Classic: 11502
+## Interface-BCC: 20504
+## Interface-Wrath: 30403
+## Interface-Cata: 40400
+
+## Title: SharedMedia BattleBrisket VO
+## Notes: Over 275 voiceover callouts loaded into LibSharedMedia
+
+## Version: @project-version@
+## Author: BattleBrisket
+## X-Category: Plugins
+## X-License: See LICENSE.txt for details
+## X-Date: @project-date-iso@
+## X-Revision: @project-revision@
+## X-Curse-Project-ID: 1009923
+
+## OptionalDeps: LibStub, CallbackHandler-1.0, LibSharedMedia-3.0
+
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+Libs\LibSharedMedia-3.0\LibSharedMedia-3.0.lua
 
 sounds.lua
 

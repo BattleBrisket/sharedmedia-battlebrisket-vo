@@ -1,6 +1,0 @@
-package-as: dbm-voicepack-battlebrisket
-
-required-dependencies:
-    - 14638-sharedmedia
-
-license-output: LICENSE.txt
