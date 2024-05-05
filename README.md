@@ -1,7 +1,7 @@
 BattleBrisket VO for LibSharedMedia
 ===================================
 
-Over 200 tactical voiceover callouts loaded into `LibSharedMedia` for World of Warcraft. Intended for use with other addons, including **WeakAuras**.
+Over **280** tactical voiceover callouts loaded into `LibSharedMedia` for World of Warcraft. Intended for use with other addons, including **WeakAuras**.
 
 Covers many movement & ability mechanics tracked by dungeon/raid encounters addons and weakaura sets. Drop-in replacement for any other dungeon/raid sound set.
 

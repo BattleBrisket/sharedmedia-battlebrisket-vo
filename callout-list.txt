@@ -1,10 +1,14 @@
-----------------------------
--- COMPLETE LIST OF SOUNDS
-----------------------------
+COMPLETE LIST OF SOUNDS
+=======================
 
-COUNTDOWN 10-1
+COUNTDOWN
+---------
 
--- RAID MARKERS
+10-1
+
+RAID MARKERS
+------------
+
 Star
 Yellow
 Move to yellow
@@ -41,7 +45,10 @@ Move to skull
 Moon
 Move to moon
 
--- CARDINAL DIRECTIONS
+
+CARDINAL DIRECTIONS
+-------------------
+
 North
 East
 South
@@ -51,7 +58,10 @@ Northwest
 Southeast
 Southwest
 
--- RELATIVE DIRECTIONS
+
+RELATIVE DIRECTIONS
+-------------------
+
 Left
 Right
 Center
@@ -64,7 +74,10 @@ Back
 Back left
 Back right
 
--- GROUPINGS
+
+GROUPINGS
+---------
+
 Group 1
 Group 2
 Group 3
@@ -77,7 +90,10 @@ Interrupt 3
 Interrupt 4
 Interrupt 5
 
--- PHASES
+
+PHASES
+------
+
 Phase 1
 Phase 2
 Phase 3
@@ -90,19 +106,27 @@ Switch Phase
 Transition
 Transition phase
 
--- DPS Timings
-DPS - Hard
-DPS - More
-DPS - Slow
-DPS - Stop
 
--- Common instructions
+DPS Timings
+-----------
+
+Hard DPS
+More DPS
+Slow DPS
+Stop DPS
+
+
+COMMON INSTRUCTIONS
+-------------------
 Stop
 Go
 In
 Out
 
--- EVERYTHING ELSE, ALPHABETICAL
+
+EVERYTHING ELSE, ALPHABETICAL
+-----------------------------
+
 Add
 Adds
 Adds Incoming
