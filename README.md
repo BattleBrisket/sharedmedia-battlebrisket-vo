@@ -11,7 +11,7 @@ All lines are recorded by a Real Human--US English male voice, no AI generation-
 
 Sounds are prefixed with `BB` and color highlighted, as shown below:
 
-![battlebrisket vo menu list](https://github.com/BattleBrisket/sharedmedia-battlebrisket-vo/blob/master/img/battlebrisket_vo_menu_list.gif)
+![battlebrisket vo menu list](https://github.com/BattleBrisket/sharedmedia-battlebrisket-vo/blob/master/img/battlebrisket_vo_menu_list.gif?raw=true)
 
 Want to add another line?
 -------------------------
@@ -27,7 +27,7 @@ Make sounds louder
 4.  Decrease the other 4 sliders--Music, Effects, Ambience, Dialog--to about **50%**
 5.  Run some content, adjust to your needs
 
-![volume controls in world of warcraft](https://github.com/BattleBrisket/sharedmedia-battlebrisket-vo/blob/master/img/battlebrisket_vo_volume_settings.png)
+![volume controls in world of warcraft](https://github.com/BattleBrisket/sharedmedia-battlebrisket-vo/blob/master/img/battlebrisket_vo_volume_settings.png?raw=true)
 
 
 LICENSE
