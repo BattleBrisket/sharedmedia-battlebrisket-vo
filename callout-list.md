@@ -1,10 +1,14 @@
-COMPLETE LIST OF SOUNDS
-=======================
+COMPLETE LIST OF VOICE OVER LINES
+=================================
+
+By BattleBrisket
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/battlebrisket.svg?style=social&label=@battlebrisket)](https://twitter.com/battlebrisket)
 
 COUNTDOWN
 ---------
 
 10-1
+
 
 RAID MARKERS
 ------------
