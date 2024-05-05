@@ -1,0 +1,300 @@
+----------------------------
+-- COMPLETE LIST OF SOUNDS
+----------------------------
+
+COUNTDOWN 10-1
+
+-- RAID MARKERS
+Star
+Yellow
+Move to yellow
+Move to star
+
+Circle
+Orange
+Move to orange
+Move to circle
+
+Diamond
+Purple
+Move to purple
+Move to diamond
+
+Triangle
+Green
+Move to green
+Move to triangle
+
+Square
+Blue
+Move to blue
+Move to square
+
+Cross
+Red
+Move to red
+Move to cross
+
+Skull
+Move to skull
+
+Moon
+Move to moon
+
+-- CARDINAL DIRECTIONS
+North
+East
+South
+West
+Northeast
+Northwest
+Southeast
+Southwest
+
+-- RELATIVE DIRECTIONS
+Left
+Right
+Center
+Center left
+Center right
+Front
+Front left
+Front right
+Back
+Back left
+Back right
+
+-- GROUPINGS
+Group 1
+Group 2
+Group 3
+Group 4
+Group 5
+
+Interrupt 1
+Interrupt 2
+Interrupt 3
+Interrupt 4
+Interrupt 5
+
+-- PHASES
+Phase 1
+Phase 2
+Phase 3
+Phase 4
+Phase 5
+
+Intermission
+Phase change
+Switch Phase
+Transition
+Transition phase
+
+-- DPS Timings
+DPS - Hard
+DPS - More
+DPS - Slow
+DPS - Stop
+
+-- Common instructions
+Stop
+Go
+In
+Out
+
+-- EVERYTHING ELSE, ALPHABETICAL
+Add
+Adds
+Adds Incoming
+AOE
+Assist
+Avoid
+Artillery
+Attack totem
+Back up
+Behind Boss
+Big Add
+Blaze
+Bleed
+Blessing of sacrifice
+Sac
+Bloodlust
+Bomb on you
+Boss
+Break
+Break chain
+Break LOS
+Breath incoming
+Buff
+Cage
+Catch balls
+Crowd control
+Crowd control (CC)
+Cooldown
+Cooldown (CD)
+Chain
+Change color
+Charge
+Charging move
+Clear
+Cleave
+Collect
+Crusher
+Curse
+Dance
+Danger close
+Debuff
+Defensive
+Demolisher
+Disease
+Dispel
+Dispel boss
+Dodge
+Don't
+Don't move
+DoT
+Drop
+Enfeebling roar
+Enrage
+Enter
+Escort
+Exit
+Fear incoming
+Feet
+Find shelter
+Find shield
+Fixate
+Focus
+Frenzy
+Frontal
+Gate
+Gather
+Gather item
+Heal to full
+Heal CD
+Healing Cooldown
+Help soak
+Help spirit
+Heroism
+Hide
+High energy
+High stacks
+Immunity
+Incoming debuff
+Innervate
+Interrupt
+Invisibility
+Jump
+Jump now
+Just don't
+Keep jumping
+Keep moving
+Kick
+Kill big add
+Kite
+Knock
+Knockback
+Laser on you, run
+Line apart
+Line gather
+Line of Sight
+Linked
+Macro
+Magic
+Main
+Marked for death
+Mind control
+Mind control (MC)
+Melee
+Meteor run
+Move boss
+Move to boss
+Move to melee
+Move to mobs
+Move to pillar
+Move to pool
+Move to tank
+Negative
+Next
+Nuke
+Orb
+Overlap
+Pain Suppression
+Pain Suppression (PS)
+Pass Debuff
+Personal CD
+Physical
+Power Infusion
+Power Infusion (PI)
+Poison
+Polarity shift
+Positive
+Potions
+Pots
+Pull
+Pull adds out
+Pulling in
+Pulverize
+Push
+Pushback incoming
+Quake
+Range
+Range 5
+Ready
+Ready to interrupt
+Reflect
+Ring
+Root
+Run
+Run out
+Run to edge
+Safe now
+Seed
+Self CD
+Shield
+Shield charge
+Shockwave
+Side
+Silence soon
+Soak
+Soon
+Spawn
+Special incoming
+Spellsteal
+Split
+Spread
+Stack
+Stack high
+Stay away from lines
+Stomp flowers
+Stop attacking
+Stop casting
+Swap soon
+Switch
+Take damage
+Target change
+Targeted
+Taunt boss
+Teleport on you
+Threat rip
+Throw
+Toss incoming
+Toss on you
+Totem
+Transporter
+Trap
+Turn
+Use
+Use extra action
+Use item
+Use personal
+Watch feet
+Watch orb
+Watch wave
+Watch your step
+Wave
+Whirlwind
+Winds
+You are targeted
+Zone
+
