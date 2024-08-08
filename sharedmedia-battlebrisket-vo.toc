@@ -1,11 +1,11 @@
-## Interface: 100207
+## Interface: 100207, 110000, 110002
 ## Interface-Classic: 11502
 ## Interface-BCC: 20504
 ## Interface-Wrath: 30403
 ## Interface-Cata: 40400
 
 ## Title: SharedMedia BattleBrisket VO
-## Notes: Over 275 voiceover callouts loaded into LibSharedMedia
+## Notes: Over 280 recorded voiceover callouts loaded into LibSharedMedia
 
 ## Version: @project-version@
 ## Author: BattleBrisket
