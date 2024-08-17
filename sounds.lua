@@ -93,6 +93,12 @@ LSM:Register("sound", "BB-|cFFFF00FFInterrupt 3|r", [[Interface\Addons\sharedmed
 LSM:Register("sound", "BB-|cFFFF00FFInterrupt 4|r", [[Interface\Addons\sharedmedia-battlebrisket-vo\sound\interrupt_4.ogg]])
 LSM:Register("sound", "BB-|cFFFF00FFInterrupt 5|r", [[Interface\Addons\sharedmedia-battlebrisket-vo\sound\interrupt_5.ogg]])
 
+LSM:Register("sound", "BB-|cFFFF00FFFirst|r", [[Interface\Addons\sharedmedia-battlebrisket-vo\sound\first.ogg]])
+LSM:Register("sound", "BB-|cFFFF00FFSecond|r", [[Interface\Addons\sharedmedia-battlebrisket-vo\sound\second.ogg]])
+LSM:Register("sound", "BB-|cFFFF00FFThird|r", [[Interface\Addons\sharedmedia-battlebrisket-vo\sound\third.ogg]])
+LSM:Register("sound", "BB-|cFFFF00FFFourth|r", [[Interface\Addons\sharedmedia-battlebrisket-vo\sound\fourth.ogg]])
+LSM:Register("sound", "BB-|cFFFF00FFFifth|r", [[Interface\Addons\sharedmedia-battlebrisket-vo\sound\fifth.ogg]])
+
 -- PHASES
 LSM:Register("sound", "BB-|cFFFF00FFPhase 1|r", [[Interface\Addons\sharedmedia-battlebrisket-vo\sound\phase_one.ogg]])
 LSM:Register("sound", "BB-|cFFFF00FFPhase 2|r", [[Interface\Addons\sharedmedia-battlebrisket-vo\sound\phase_two.ogg]])
@@ -340,11 +346,11 @@ LSM:Register("sound", "|cFFFF00008|r", [[Interface\Addons\sharedmedia-battlebris
 LSM:Register("sound", "|cFFFF00009|r", [[Interface\Addons\sharedmedia-battlebrisket-vo\sound\9.ogg]])
 LSM:Register("sound", "|cFFFE000010|r", [[Interface\Addons\sharedmedia-battlebrisket-vo\sound\10.ogg]])
 
-LSM:Register("sound", "|cFFFF00001. First|r", [[Interface\Addons\sharedmedia-battlebrisket-vo\sound\First.ogg]])
-LSM:Register("sound", "|cFFFF00002. Second|r", [[Interface\Addons\sharedmedia-battlebrisket-vo\sound\Second.ogg]])
-LSM:Register("sound", "|cFFFF00003. Third|r", [[Interface\Addons\sharedmedia-battlebrisket-vo\sound\Third.ogg]])
-LSM:Register("sound", "|cFFFF00004. Fourth|r", [[Interface\Addons\sharedmedia-battlebrisket-vo\sound\Fourth.ogg]])
-LSM:Register("sound", "|cFFFF00005. Fifth|r", [[Interface\Addons\sharedmedia-battlebrisket-vo\sound\Fifth.ogg]])
+LSM:Register("sound", "|cFFFF00001. First|r", [[Interface\Addons\sharedmedia-battlebrisket-vo\sound\first.ogg]])
+LSM:Register("sound", "|cFFFF00002. Second|r", [[Interface\Addons\sharedmedia-battlebrisket-vo\sound\second.ogg]])
+LSM:Register("sound", "|cFFFF00003. Third|r", [[Interface\Addons\sharedmedia-battlebrisket-vo\sound\third.ogg]])
+LSM:Register("sound", "|cFFFF00004. Fourth|r", [[Interface\Addons\sharedmedia-battlebrisket-vo\sound\fourth.ogg]])
+LSM:Register("sound", "|cFFFF00005. Fifth|r", [[Interface\Addons\sharedmedia-battlebrisket-vo\sound\fifth.ogg]])
 
 LSM:Register("sound", "|TInterface\\TargetingFrame\\UI-RaidTargetingIcon_1:16|t", [[Interface\Addons\sharedmedia-battlebrisket-vo\sound\star.ogg]])
 LSM:Register("sound", "|TInterface\\TargetingFrame\\UI-RaidTargetingIcon_2:16|t", [[Interface\Addons\sharedmedia-battlebrisket-vo\sound\circle.ogg]])
