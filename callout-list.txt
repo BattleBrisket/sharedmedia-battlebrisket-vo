@@ -18,31 +18,37 @@ Star
 Yellow
 Move to yellow
 Move to star
+Yellow on you
 
 Circle
 Orange
 Move to orange
 Move to circle
+Orange on you
 
 Diamond
 Purple
 Move to purple
 Move to diamond
+Purple on you
 
 Triangle
 Green
 Move to green
 Move to triangle
+Green on you
 
 Square
 Blue
 Move to blue
 Move to square
+Blue on you
 
 Cross
 Red
 Move to red
 Move to cross
+Red on you
 
 Skull
 Move to skull
@@ -135,12 +141,16 @@ EVERYTHING ELSE, ALPHABETICAL
 Add
 Adds
 Adds Incoming
+Affix
 AOE
 Assist
 Avoid
 Artillery
 Attack totem
+Back
 Back up
+Bait
+Beam
 Behind Boss
 Big Add
 Blaze
@@ -173,6 +183,7 @@ Curse
 Dance
 Danger close
 Debuff
+Debuff on you
 Defensive
 Demolisher
 Disease
@@ -227,6 +238,7 @@ Laser on you, run
 Line apart
 Line gather
 Line of Sight
+Line on you
 Linked
 Macro
 Magic
@@ -238,11 +250,14 @@ Melee
 Meteor run
 Move boss
 Move to boss
+Move to egg
 Move to melee
 Move to mobs
 Move to pillar
 Move to pool
+Move to statue
 Move to tank
+Move to web
 Negative
 Next
 Nuke
@@ -272,6 +287,7 @@ Range 5
 Ready
 Ready to interrupt
 Reflect
+Refresh
 Ring
 Root
 Run
@@ -298,6 +314,7 @@ Stay away from lines
 Stomp flowers
 Stop attacking
 Stop casting
+Stop charge with line
 Swap soon
 Switch
 Take damage
