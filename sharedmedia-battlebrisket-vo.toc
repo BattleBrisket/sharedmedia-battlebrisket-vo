@@ -6,6 +6,7 @@
 
 ## Title: SharedMedia BattleBrisket VO
 ## Notes: Over 280 recorded voiceover callouts loaded into LibSharedMedia
+## SavedVariables: BattleBrisketVO
 
 ## Version: @project-version@
 ## Author: BattleBrisket
@@ -22,5 +23,7 @@ Libs\LibStub\LibStub.lua
 Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
 Libs\LibSharedMedia-3.0\LibSharedMedia-3.0.lua
 
-sounds.lua
+
+soundregister.lua
+core.lua
 
